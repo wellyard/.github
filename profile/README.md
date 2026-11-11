@@ -9,7 +9,7 @@
 
 <p align="center"><b>Split apart. Seen whole.</b><br>拆得开，看得全。</p>
 
-https://github.com/user-attachments/assets/7d015494-dc24-44fa-9136-73c3713c6cf1
+https://github.com/user-attachments/assets/1845dfc0-eee4-42b1-a74e-f58e38f3fab8
 
 Wellyard is a [Claude Code](https://claude.com/claude-code) plugin that sets up a product as **one main repo plus one repo per code base**.
 
