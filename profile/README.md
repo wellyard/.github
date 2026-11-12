@@ -7,9 +7,9 @@
 
 <h1 align="center">Wellyard</h1>
 
-<p align="center"><b>Split apart. Seen whole.</b><br>拆得开，看得全。</p>
+<p align="center"><b>Split it up. See it whole.</b></p>
 
-https://github.com/user-attachments/assets/1845dfc0-eee4-42b1-a74e-f58e38f3fab8
+https://github.com/user-attachments/assets/643f8896-22cc-4a0a-9a62-7de1033adce7
 
 Wellyard is a [Claude Code](https://claude.com/claude-code) plugin that sets up a product as **one main repo plus one repo per code base**.
 
@@ -23,6 +23,8 @@ Wellyard is a [Claude Code](https://claude.com/claude-code) plugin that sets up 
 <summary>中文</summary>
 
 <br>
+
+**拆得开，看得全。**
 
 Wellyard 是一个 Claude Code 插件：把一个产品搭成「一个主仓库，加每套代码一个仓库」。
 
